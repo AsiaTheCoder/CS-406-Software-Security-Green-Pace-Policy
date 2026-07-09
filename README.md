@@ -1,17 +1,17 @@
 # CS-406-Software-Security-Green-Pace-Policy
 (Created  July 8, 2026) 
 
-**30-page Security Policy
+# **30-page Security Policy
 
 Presentation
 
 Security Infographic**
 
-Overview
+## Overview
 
 Designed and authored a comprehensive enterprise software security policy for Green Pace, incorporating secure software engineering practices, DevSecOps automation, Zero Trust principles, and Defense-in-Depth architecture.
 
-Topics Covered
+**Topics Covered**
 Secure SDLC
 Defense in Depth
 Zero Trust
@@ -49,7 +49,8 @@ AAA policy
 Defense-in-depth architecture
 Presentation
 Infographic
-Skills Demonstrated
+
+**Skills Demonstrated**
 Threat Modeling
 Secure Software Design
 DevSecOps
@@ -57,11 +58,11 @@ Risk Analysis
 Security Policy Development
 Secure Coding Standards
 Enterprise Security
-Video Presentation
 
-[(YouTube link)](https://www.youtube.com/watch?v=ShT70O-j0bs)
+**Video Presentation**
+(https://www.youtube.com/watch?v=ShT70O-j0bs)
 
-Repository Contents
+**Repository Contents**
 Security Policy (PDF)
 Presentation
 Infographic
