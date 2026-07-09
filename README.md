@@ -1,11 +1,11 @@
 # CS-406-Software-Security-Green-Pace-Policy
 (Created  July 8, 2026) 
 
-### 30-page Security Policy
+**30-page Security Policy
 
-### Presentation
+Presentation
 
-### Security Infographic
+Security Infographic**
 
 Overview
 
