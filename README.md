@@ -7,7 +7,7 @@ Presentation
 
 Security Infographic**
 
-## Overview
+### Overview
 
 Designed and authored a comprehensive enterprise software security policy for Green Pace, incorporating secure software engineering practices, DevSecOps automation, Zero Trust principles, and Defense-in-Depth architecture.
 
